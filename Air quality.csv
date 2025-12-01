@@ -1,0 +1,101 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,lat,lng
+United Kingdom of Great Britain and Northern Ireland,Port Talbot,51,Moderate,1,Good,20,Good,5,Good,51,Moderate,51.5906,-3.7986
+United Kingdom of Great Britain and Northern Ireland,Denton,55,Moderate,0,Good,32,Good,1,Good,55,Moderate,33.2175,-97.1418
+United Kingdom of Great Britain and Northern Ireland,Denton,55,Moderate,0,Good,32,Good,1,Good,55,Moderate,53.4554,-2.1122
+United Kingdom of Great Britain and Northern Ireland,Guildford,51,Moderate,1,Good,25,Good,6,Good,51,Moderate,51.2365,-0.5703
+United Kingdom of Great Britain and Northern Ireland,Hemel Hempstead,51,Moderate,1,Good,26,Good,6,Good,51,Moderate,51.7526,-0.4692
+United Kingdom of Great Britain and Northern Ireland,Yeovil,58,Moderate,1,Good,24,Good,7,Good,58,Moderate,50.9452,-2.637
+United Kingdom of Great Britain and Northern Ireland,Royton,56,Moderate,0,Good,32,Good,1,Good,56,Moderate,53.566,-2.121
+United Kingdom of Great Britain and Northern Ireland,Salford,58,Moderate,0,Good,32,Good,1,Good,58,Moderate,53.483,-2.2931
+United Kingdom of Great Britain and Northern Ireland,Falmouth,78,Moderate,0,Good,37,Good,0,Good,78,Moderate,50.15,-5.07
+United Kingdom of Great Britain and Northern Ireland,Falmouth,78,Moderate,0,Good,37,Good,0,Good,78,Moderate,18.49,-77.661
+United Kingdom of Great Britain and Northern Ireland,Falmouth,78,Moderate,0,Good,37,Good,0,Good,78,Moderate,41.5913,-70.5912
+United Kingdom of Great Britain and Northern Ireland,Falmouth,78,Moderate,0,Good,37,Good,0,Good,78,Moderate,43.7476,-70.2827
+United Kingdom of Great Britain and Northern Ireland,Altrincham,59,Moderate,0,Good,32,Good,1,Good,59,Moderate,53.3838,-2.3547
+United Kingdom of Great Britain and Northern Ireland,Stroud,51,Moderate,1,Good,21,Good,5,Good,51,Moderate,41.0001,-75.2173
+United Kingdom of Great Britain and Northern Ireland,Stroud,51,Moderate,1,Good,21,Good,5,Good,51,Moderate,51.744,-2.215
+United Kingdom of Great Britain and Northern Ireland,Irvine,62,Moderate,0,Good,34,Good,0,Good,62,Moderate,33.6772,-117.7738
+United Kingdom of Great Britain and Northern Ireland,Irvine,62,Moderate,0,Good,34,Good,0,Good,62,Moderate,55.6201,-4.6614
+United Kingdom of Great Britain and Northern Ireland,Ivybridge,67,Moderate,0,Good,35,Good,1,Good,67,Moderate,50.389,-3.921
+United Kingdom of Great Britain and Northern Ireland,Southport,67,Moderate,0,Good,33,Good,0,Good,67,Moderate,53.6475,-3.0053
+United Kingdom of Great Britain and Northern Ireland,Southport,67,Moderate,0,Good,33,Good,0,Good,67,Moderate,-27.9667,153.4
+United Kingdom of Great Britain and Northern Ireland,Southport,67,Moderate,0,Good,33,Good,0,Good,67,Moderate,42.04,-76.8775
+United Kingdom of Great Britain and Northern Ireland,Stalybridge,55,Moderate,0,Good,32,Good,1,Good,55,Moderate,53.4834,-2.04
+United Kingdom of Great Britain and Northern Ireland,Leigh,59,Moderate,1,Good,19,Good,10,Good,59,Moderate,53.4975,-2.515
+United Kingdom of Great Britain and Northern Ireland,Billingham,56,Moderate,1,Good,12,Good,12,Good,56,Moderate,54.61,-1.27
+United Kingdom of Great Britain and Northern Ireland,Honiton,59,Moderate,1,Good,16,Good,7,Good,59,Moderate,50.8,-3.19
+United Kingdom of Great Britain and Northern Ireland,Whitley Bay,53,Moderate,0,Good,32,Good,0,Good,53,Moderate,55.0456,-1.4443
+United Kingdom of Great Britain and Northern Ireland,Paignton,54,Moderate,1,Good,24,Good,6,Good,54,Moderate,50.4353,-3.5625
+United Kingdom of Great Britain and Northern Ireland,Burnley,62,Moderate,1,Good,14,Good,11,Good,62,Moderate,53.789,-2.248
+United Kingdom of Great Britain and Northern Ireland,Stockport,61,Moderate,1,Good,15,Good,11,Good,61,Moderate,53.4083,-2.1494
+United Kingdom of Great Britain and Northern Ireland,Bideford,60,Moderate,1,Good,21,Good,5,Good,60,Moderate,51.016,-4.209
+United Kingdom of Great Britain and Northern Ireland,Sidmouth,59,Moderate,1,Good,27,Good,5,Good,59,Moderate,50.68,-3.239
+United Kingdom of Great Britain and Northern Ireland,Durham,56,Moderate,0,Good,31,Good,1,Good,56,Moderate,35.9792,-78.9022
+United Kingdom of Great Britain and Northern Ireland,Durham,56,Moderate,0,Good,31,Good,1,Good,56,Moderate,54.7761,-1.5733
+United Kingdom of Great Britain and Northern Ireland,Durham,56,Moderate,0,Good,31,Good,1,Good,56,Moderate,43.1174,-70.9194
+United Kingdom of Great Britain and Northern Ireland,Fleet,52,Moderate,1,Good,27,Good,6,Good,52,Moderate,51.2834,-0.8456
+United Kingdom of Great Britain and Northern Ireland,Bearsden,61,Moderate,0,Good,31,Good,0,Good,61,Moderate,55.9192,-4.3332
+United Kingdom of Great Britain and Northern Ireland,Farnworth,58,Moderate,1,Good,26,Good,7,Good,58,Moderate,53.5452,-2.3999
+United Kingdom of Great Britain and Northern Ireland,Rawtenstall,62,Moderate,1,Good,15,Good,12,Good,62,Moderate,53.699,-2.291
+United Kingdom of Great Britain and Northern Ireland,Billericay,53,Moderate,0,Good,35,Good,2,Good,53,Moderate,51.628,0.4184
+United Kingdom of Great Britain and Northern Ireland,Preston,65,Moderate,0,Good,32,Good,1,Good,65,Moderate,53.759,-2.699
+United Kingdom of Great Britain and Northern Ireland,Radcliffe,62,Moderate,1,Good,15,Good,12,Good,62,Moderate,53.5615,-2.3268
+United Kingdom of Great Britain and Northern Ireland,Newton Abbot,58,Moderate,1,Good,24,Good,6,Good,58,Moderate,50.529,-3.61
+United Kingdom of Great Britain and Northern Ireland,Westhoughton,61,Moderate,0,Good,32,Good,1,Good,61,Moderate,53.549,-2.529
+United Kingdom of Great Britain and Northern Ireland,Whitburn,57,Moderate,0,Good,30,Good,0,Good,57,Moderate,55.8621,-3.6872
+United Kingdom of Great Britain and Northern Ireland,Kidsgrove,56,Moderate,0,Good,32,Good,1,Good,56,Moderate,53.0874,-2.2478
+United Kingdom of Great Britain and Northern Ireland,Stourbridge,53,Moderate,1,Good,27,Good,4,Good,53,Moderate,52.4575,-2.1479
+United Kingdom of Great Britain and Northern Ireland,Gosforth,56,Moderate,0,Good,32,Good,0,Good,56,Moderate,55.007,-1.623
+United Kingdom of Great Britain and Northern Ireland,Blackburn,60,Moderate,1,Good,17,Good,11,Good,60,Moderate,53.748,-2.482
+United Kingdom of Great Britain and Northern Ireland,Wishaw,59,Moderate,0,Good,31,Good,0,Good,59,Moderate,55.7742,-3.9183
+United Kingdom of Great Britain and Northern Ireland,Burgess Hill,52,Moderate,1,Good,29,Good,5,Good,52,Moderate,50.9535,-0.1262
+United Kingdom of Great Britain and Northern Ireland,Wokingham,51,Moderate,1,Good,26,Good,6,Good,51,Moderate,51.41,-0.84
+United Kingdom of Great Britain and Northern Ireland,Telford,56,Moderate,1,Good,26,Good,5,Good,56,Moderate,52.6766,-2.4469
+United Kingdom of Great Britain and Northern Ireland,Chorley,63,Moderate,0,Good,32,Good,1,Good,63,Moderate,53.653,-2.632
+United Kingdom of Great Britain and Northern Ireland,Long Eaton,51,Moderate,1,Good,13,Good,10,Good,51,Moderate,52.898,-1.271
+United Kingdom of Great Britain and Northern Ireland,Pontypridd,58,Moderate,1,Good,21,Good,4,Good,58,Moderate,51.602,-3.342
+United Kingdom of Great Britain and Northern Ireland,Rhondda,74,Moderate,0,Good,32,Good,0,Good,74,Moderate,51.6159,-3.4175
+United Kingdom of Great Britain and Northern Ireland,Ossett,59,Moderate,1,Good,12,Good,10,Good,59,Moderate,53.68,-1.58
+United Kingdom of Great Britain and Northern Ireland,Ilkeston,52,Moderate,1,Good,11,Good,12,Good,52,Moderate,52.971,-1.309
+United Kingdom of Great Britain and Northern Ireland,Bootle,65,Moderate,0,Good,33,Good,0,Good,65,Moderate,53.4457,-2.9891
+United Kingdom of Great Britain and Northern Ireland,Accrington,61,Moderate,0,Good,31,Good,1,Good,61,Moderate,53.7534,-2.3638
+United Kingdom of Great Britain and Northern Ireland,Kidderminster,51,Moderate,1,Good,14,Good,8,Good,51,Moderate,52.3885,-2.249
+United Kingdom of Great Britain and Northern Ireland,Sunderland,51,Moderate,0,Good,32,Good,1,Good,51,Moderate,54.906,-1.381
+United Kingdom of Great Britain and Northern Ireland,Nailsea,62,Moderate,0,Good,33,Good,0,Good,62,Moderate,51.43,-2.76
+United Kingdom of Great Britain and Northern Ireland,Barnsley,56,Moderate,1,Good,12,Good,10,Good,56,Moderate,53.5547,-1.4791
+United Kingdom of Great Britain and Northern Ireland,Formby,66,Moderate,0,Good,33,Good,0,Good,66,Moderate,53.5586,-3.0666
+United Kingdom of Great Britain and Northern Ireland,Northallerton,55,Moderate,1,Good,12,Good,11,Good,55,Moderate,54.3378,-1.4285
+United Kingdom of Great Britain and Northern Ireland,Bridgwater,56,Moderate,1,Good,20,Good,7,Good,56,Moderate,51.128,-2.993
+United Kingdom of Great Britain and Northern Ireland,Pudsey,61,Moderate,1,Good,11,Good,10,Good,61,Moderate,53.797,-1.663
+United Kingdom of Great Britain and Northern Ireland,Larkhall,60,Moderate,0,Good,31,Good,0,Good,60,Moderate,55.737,-3.972
+United Kingdom of Great Britain and Northern Ireland,Greenock,57,Moderate,1,Good,24,Good,3,Good,57,Moderate,55.95,-4.765
+United Kingdom of Great Britain and Northern Ireland,Dalkeith,59,Moderate,0,Good,30,Good,0,Good,59,Moderate,55.8958,-3.0583
+United Kingdom of Great Britain and Northern Ireland,Rotherham,53,Moderate,1,Good,13,Good,10,Good,53,Moderate,53.43,-1.357
+United Kingdom of Great Britain and Northern Ireland,Gateshead,54,Moderate,1,Good,17,Good,11,Good,54,Moderate,54.95,-1.6
+United Kingdom of Great Britain and Northern Ireland,Letchworth,51,Moderate,1,Good,31,Good,3,Good,51,Moderate,51.978,-0.23
+United Kingdom of Great Britain and Northern Ireland,Prestwich,62,Moderate,1,Good,15,Good,11,Good,62,Moderate,53.5333,-2.2833
+United Kingdom of Great Britain and Northern Ireland,Gosport,51,Moderate,1,Good,24,Good,7,Good,51,Moderate,50.7948,-1.1243
+United Kingdom of Great Britain and Northern Ireland,George Town,78,Moderate,1,Good,27,Good,0,Good,78,Moderate,19.2866,-81.3744
+United Kingdom of Great Britain and Northern Ireland,George Town,78,Moderate,1,Good,27,Good,0,Good,78,Moderate,5.4144,100.3292
+United Kingdom of Great Britain and Northern Ireland,Harlow,52,Moderate,0,Good,36,Good,2,Good,52,Moderate,51.779,0.128
+United Kingdom of Great Britain and Northern Ireland,Halifax,53,Moderate,0,Good,31,Good,1,Good,53,Moderate,44.6475,-63.5906
+United Kingdom of Great Britain and Northern Ireland,Halifax,53,Moderate,0,Good,31,Good,1,Good,53,Moderate,53.725,-1.863
+Ireland,Tullamore,57,Moderate,1,Good,26,Good,3,Good,57,Moderate,53.2667,-7.5
+Ireland,Clonmel,57,Moderate,1,Good,39,Good,0,Good,57,Moderate,52.3539,-7.7116
+Ireland,Drogheda,58,Moderate,1,Good,24,Good,4,Good,58,Moderate,53.715,-6.3525
+Ireland,Tralee,54,Moderate,1,Good,39,Good,0,Good,54,Moderate,52.2675,-9.6962
+Ireland,Galway,52,Moderate,1,Good,30,Good,1,Good,52,Moderate,53.2719,-9.0489
+Ireland,Kilkenny,53,Moderate,1,Good,40,Good,0,Good,53,Moderate,52.6477,-7.2561
+Ireland,Ennis,58,Moderate,1,Good,39,Good,0,Good,58,Moderate,52.8463,-8.9807
+Ireland,Ennis,58,Moderate,1,Good,39,Good,0,Good,58,Moderate,32.3254,-96.6347
+United Kingdom of Great Britain and Northern Ireland,Ayr,29,Good,1,Good,29,Good,2,Good,20,Good,-19.5744,147.4066
+United Kingdom of Great Britain and Northern Ireland,Norwich,29,Good,0,Good,29,Good,3,Good,18,Good,42.9833,-80.6
+United Kingdom of Great Britain and Northern Ireland,Glenrothes,35,Good,1,Good,22,Good,6,Good,35,Good,56.198,-3.178
+United Kingdom of Great Britain and Northern Ireland,Glossop,27,Good,1,Good,25,Good,3,Good,27,Good,53.443,-1.949
+United Kingdom of Great Britain and Northern Ireland,Lewes,37,Good,1,Good,12,Good,13,Good,37,Good,50.8747,0.0117
+United Kingdom of Great Britain and Northern Ireland,Inverurie,31,Good,1,Good,31,Good,2,Good,25,Good,57.28,-2.38
+United Kingdom of Great Britain and Northern Ireland,Newburn,31,Good,0,Good,31,Good,2,Good,21,Good,54.983,-1.743
+United Kingdom of Great Britain and Northern Ireland,Newbury,50,Good,1,Good,22,Good,7,Good,50,Good,51.401,-1.323
+United Kingdom of Great Britain and Northern Ireland,Dronfield,39,Good,0,Good,31,Good,1,Good,39,Good,53.3024,-1.4664
+United Kingdom of Great Britain and Northern Ireland,East Grinstead,36,Good,0,Good,27,Good,3,Good,36,Good,51.13,0
+United Kingdom of Great Britain and Northern Ireland,Leatherhead,33,Good,0,Good,33,Good,1,Good,28,Good,51.295,-0.329
